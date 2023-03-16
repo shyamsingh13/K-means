@@ -1,2 +1,2 @@
 # K-means
-Here we will unsupervised algorithm K-means so for just get into the REPOSITORY
+Here we will see unsupervised algorithm K-means 
